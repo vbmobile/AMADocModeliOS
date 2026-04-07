@@ -15,8 +15,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "mdi-mob-sdk-doc-model-ios",
-            url: "https://vbmobileidstorage.blob.core.windows.net/ios/AMADocModeliOS/mdi-mob-sdk-doc-model-ios-1.0.0-rc12.zip",
-            checksum: "e41dd3ba70a3cd38e90ae4620b45e0674cf533e7d2ebf15825e47ca4e20715e5"
+            url: "https://vbmobileidstorage.blob.core.windows.net/ios/AMADocModeliOS/AMADocModeliOS-1.0.0-rc14.zip",
+            checksum: "7070eadc3a3d24b737424c72a743581b64b587191b036990f70724dc2b2e3300"
         ),
         .target(
             name: "AMADocModeliOS",
