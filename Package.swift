@@ -15,8 +15,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "AMADocModeliOS",
-            url: "https://vbmobileidstorage.blob.core.windows.net/ios/AMADocModeliOS/AMADocModeliOS-2.0.1.zip",
-            checksum: "43d93516603bab8419f27b2a71224f2102c675e0569c34cbae7eaa0b90a54e5a"
+            url: "https://vbmobileidstorage.blob.core.windows.net/ios/AMADocModel/AMADocModel-3.0.0.zip",
+            checksum: "c50fdade875d75220d8ad6d28b6848978e2bc2b411bc22fbc52273c1fad8dd4f"
         )
     ]
 )
