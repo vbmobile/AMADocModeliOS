@@ -1,6 +1,6 @@
 > ⚠️ **This repository has been archived and superseded.**
 >
-> Development has moved to **[vbmobile/AMADocModel](https://github.com/vbmobile/AMADocModel)** as part of the Amadeus branding migration (TRAVELERID-14915).
+> Development has moved to **[vbmobile/AMADocModel](https://github.com/vbmobile/AMADocModel)**.
 >
 > - **New SPM URL:** `https://github.com/vbmobile/AMADocModel`
 > - **Last frozen version here:** `3.0.0`
