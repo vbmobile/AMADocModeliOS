@@ -2,21 +2,21 @@
 import PackageDescription
 //
 let package = Package(
-    name: "AMADocModel",
+    name: "AMADocModeliOS",
     platforms: [
         .iOS(.v15)
     ],
     products: [
         .library(
-            name: "AMADocModel",
-            targets: ["AMADocModel"]
+            name: "AMADocModeliOS",
+            targets: ["AMADocModeliOS"]
         )
     ],
     targets: [
         .binaryTarget(
-            name: "AMADocModel",
-            url: "https://vbmobileidstorage.blob.core.windows.net/ios/AMADocModel/AMADocModel-3.0.0.zip",
-            checksum: "c50fdade875d75220d8ad6d28b6848978e2bc2b411bc22fbc52273c1fad8dd4f"
+            name: "AMADocModeliOS",
+            url: "https://vbmobileidstorage.blob.core.windows.net/ios/AMADocModeliOS/AMADocModeliOS-2.0.3.zip",
+            checksum: "fc48e57efe11319bf192b5b3b3c42ec79ddb8547ae9c4acd2a945b8c56c5a642"
         )
     ]
 )
